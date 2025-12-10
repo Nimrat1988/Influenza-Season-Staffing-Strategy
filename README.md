@@ -1,5 +1,8 @@
 Influenza Season Staffing Strategy
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/nimrat.kaur2103/viz/PreparingforInfluenzaSeason_17613267279870/Preparingforinfluenzaseason?publish=yes)
+
+
 Objective - To support a medical staffing agency in planning for influenza season by analyzing national flu trends and identifying periods and regions with increased demand for temporary healthcare staff.
 
 Key Questions:
